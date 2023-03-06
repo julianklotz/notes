@@ -1,4 +1,4 @@
-# Finding duplicate combinations of values
+# Finding duplicate combinations of values in SQL
 
 Recently, I was trying to add a constraint to an existing table to enforce that certain combinations of values were unique.
 
